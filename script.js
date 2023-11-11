@@ -17,8 +17,7 @@ tl.from('#main h1', {
 tl.from('#main>img', {
   scale: 0,
   opacity: 0,
-  delay: 1.5,
-  duration: 1.5,
+  duration: 1,
   stagger: 0.3,
 });
 
